@@ -1,0 +1,6 @@
+package csg.pingui.pingui_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

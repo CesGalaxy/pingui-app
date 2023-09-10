@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891205520299",
+    "project_id": "pingui-app",
+    "storage_bucket": "pingui-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891205520299:android:57b854169035ef0ae420ee",
+        "android_client_info": {
+          "package_name": "csg.pingui.pingui_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891205520299-0vvv6djjv824053c0jagksfpodsvvf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFOODBM0G4LeKigF1hXQpJnzyXuvqSC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891205520299-0vvv6djjv824053c0jagksfpodsvvf6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
